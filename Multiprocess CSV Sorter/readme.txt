@@ -1,4 +1,4 @@
-Scanner CSV Sorter (PA1) Documentation:
+Scanner CSV Sorter Documentation:
 
 Usage:
 
